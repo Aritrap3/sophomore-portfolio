@@ -6,9 +6,11 @@ p {
   color: lime;
   text-align: center;
   font-size: 200%;
+  font-family:monospace;
   }
 h1 {
   color:blanchedalmond;
   text-align: center;
   font-size: 500%;
+  font-family:monospace
   }
