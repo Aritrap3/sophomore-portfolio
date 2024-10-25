@@ -1,6 +1,12 @@
 body {
   background-color: black;
      }
-h1 {
+
+p {
   color: lime;
+  text-align: center;
+  }
+h2 {
+  color:blanchedalmond
+  text-aign:center;
   }
