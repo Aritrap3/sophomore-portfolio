@@ -1,57 +1,49 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Aritra Paul portfolio</title>
-    <link rel="stylesheet" href="style.css">
-  </head>  
-  <body>
-    <p>
-      👋 Hello, My name is
-    </p>
-    <h1>
-      Aritra 
-    </h1>
-    <hr>
-    <p>
-      Welcome to my website! This is my 10th grade portfolio, I am learning Web Development
-    </p>
-    <h2>
-    About me:
-    </h2>
-    <p1>
-    I am a student going to Thomas A. Edison High School, this year I am learning about web development. I like working with computers and have just started to code, this is my first website. Even though this is my first website I am excited for the journey and I am eagered to learn and improve my skills.
-    </p1>
-    <h2>
-    Skills:
-    </h2>
-    <p1>
-    Currently, I am learning to code in these languages:
-    </p1>
-    <ui>
-      <li>HTML</li>
-      <li>CSS</li>
-    </ui>
-    
-    <h2>
-    Projects:
-    </h2>
-    <p1>
-    Some Projects I have worked on:
-    </p1>
+body {
+  background-color: rgb(26, 26, 25);
+     }
 
-<hr> 
-    <h3>
-    Contact me:
-    </h3>
-    <p2>
-    Aritrap3@nycstudents.net
-    </p2>
-    
-   
+p {
+  color: rgb(246, 252, 223);
+  text-align: center;
+  font-size: 200%;
+  font-family:monospace;
+  }
+h1 {
+  color:rgb(241, 239, 153);
+  text-align: center;
+  font-size: 500%;
+  font-family:monospace;
+  }
+h2 {color:rgb(133, 159, 61);
+  font-size: 300%;
+  font-family:monospace;
+  text-decoration: underline;
+}
+p1 {
+  color: rgb(246, 252, 223);
+  text-align: center;
+  font-size: 200%;
+  font-family:monospace;
+  }
+
+li {
+  color: rgb(246, 252, 223);
+  font-size: 200%;
+  font-family:monospace;
 
 
+}
+h3 {
+color: rgb(246, 252, 223);
+  font-size: 150%;
+  font-family:monospace;
+  text-decoration: underline;
+
+}
+p2 {
+  color: rgb(246, 252, 223);
+  font-size: 150%;
+  font-family:monospace;
 
 
-    
-  </body>
-</html>
+}
